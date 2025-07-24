@@ -33,8 +33,12 @@
     <a href="W02_Odd_Even_Number.php">Odd-Even Number</a><br>
     <a href="W02_grade.php">Calculate-grade</a><br>
     <a href="W02_PHP_Calculate_Money.php">Calculate-Money</a><br>
-    <hr>
+    <a href="W06_PHP_loop_Product.php">Show-Product(Fix-data)/a><br>
+        <a href="W05_PHP_Connect_Database.php">Connect-Database</a> a><br>
+        <a href="W05_PHP_Show_Product.php">Show-Product(From Database)><br>
 
-    </body>
+            <hr>
+
+            </body>
 
 </html>
